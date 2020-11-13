@@ -33,6 +33,8 @@
   <EnergyTab_defsUpdateRatePerTicks_Label>Buildings refresh interval:  {0}</EnergyTab_defsUpdateRatePerTicks_Label>
   <EnergyTab_defsUpdateRatePerTicks_Tooltip>The number of ticks through which the lists of energy sources and consumers will be updated. The lower the number, the more often the lists are updated, but the stronger the impact on TPS.</EnergyTab_defsUpdateRatePerTicks_Tooltip>
 
+  <EnergyTab_ResetButton>Reset</EnergyTab_ResetButton>
+
   <!--wired stuff-->
   <EnergyTab.DefaultUpdateInterval>Default refresh interval</EnergyTab.DefaultUpdateInterval>
   <EnergyTab.Hourly>Hourly</EnergyTab.Hourly>

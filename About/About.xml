@@ -8,11 +8,7 @@
 	</supportedVersions>
 
 	<modDependencies>
-		<li>
-			<packageId>skyarkhangel.HSK</packageId>
-			<displayName>Core SK</displayName>
-			<downloadUrl>https://github.com/skyarkhangel/Hardcore-SK</downloadUrl>
-		</li>
+
 	</modDependencies>
 
 	<incompatibleWith>

@@ -33,6 +33,9 @@
   <EnergyTab_defsUpdateRatePerTicks_Label>Периодичность обновления строений:  {0}</EnergyTab_defsUpdateRatePerTicks_Label>
   <EnergyTab_defsUpdateRatePerTicks_Tooltip>Количество тиков, через которое будут обновляться списки источников и потребителей энергии. Чем меньше число, тем чаще обновление списков, но тем сильнее влияние на TPS.</EnergyTab_defsUpdateRatePerTicks_Tooltip>
 
+  <EnergyTab_panelBrightness_Label>Яркость цветных панелей: {0}</EnergyTab_panelBrightness_Label>
+  <EnergyTab_panelBrightness_Tooltip>Регулирует яркость цветных панелей. Делает цвета менее насыщенными, чтобы было легче различать текст.\n\nПосле изменения необходимо перезагрузить сохранение</EnergyTab_panelBrightness_Tooltip>
+
   <EnergyTab_ResetButton>Сброс настроек</EnergyTab_ResetButton>
 
   <!--wired stuff-->

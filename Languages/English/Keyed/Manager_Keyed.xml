@@ -33,6 +33,9 @@
   <EnergyTab_defsUpdateRatePerTicks_Label>Buildings refresh interval:  {0}</EnergyTab_defsUpdateRatePerTicks_Label>
   <EnergyTab_defsUpdateRatePerTicks_Tooltip>The number of ticks through which the lists of energy sources and consumers will be updated. The lower the number, the more often the lists are updated, but the stronger the impact on TPS.</EnergyTab_defsUpdateRatePerTicks_Tooltip>
 
+  <EnergyTab_panelBrightness_Label>Color bars brightness: {0}</EnergyTab_panelBrightness_Label>
+  <EnergyTab_panelBrightness_Tooltip>Adjusts the brightness of the colored panels. Makes colors less saturated to make text easier to see.\n\nYou need to reload your save game to apply this changes.</EnergyTab_panelBrightness_Tooltip>
+
   <EnergyTab_ResetButton>Reset</EnergyTab_ResetButton>
 
   <!--wired stuff-->
